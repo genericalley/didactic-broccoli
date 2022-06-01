@@ -1,25 +1,25 @@
 {
   "files": {
-    "app.js": "/didactic-broccoli/static/js/app.a95f29eb.chunk.js",
-    "app.js.map": "/didactic-broccoli/static/js/app.a95f29eb.chunk.js.map",
+    "app.js": "/didactic-broccoli/static/js/app.2268fa23.chunk.js",
+    "app.js.map": "/didactic-broccoli/static/js/app.2268fa23.chunk.js.map",
     "runtime~app.js": "/didactic-broccoli/static/js/runtime~app.dce7b9a3.js",
     "runtime~app.js.map": "/didactic-broccoli/static/js/runtime~app.dce7b9a3.js.map",
-    "static/js/2.287cdc05.chunk.js": "/didactic-broccoli/static/js/2.287cdc05.chunk.js",
-    "static/js/2.287cdc05.chunk.js.map": "/didactic-broccoli/static/js/2.287cdc05.chunk.js.map",
+    "static/js/2.ef39535c.chunk.js": "/didactic-broccoli/static/js/2.ef39535c.chunk.js",
+    "static/js/2.ef39535c.chunk.js.map": "/didactic-broccoli/static/js/2.ef39535c.chunk.js.map",
     "favicon-16.png": "/didactic-broccoli/favicon-16.png",
     "favicon-32.png": "/didactic-broccoli/favicon-32.png",
     "favicon.ico": "/didactic-broccoli/favicon.ico",
     "index.html": "/didactic-broccoli/index.html",
     "manifest.json": "/didactic-broccoli/manifest.json",
     "serve.json": "/didactic-broccoli/serve.json",
-    "static/js/2.287cdc05.chunk.js.LICENSE.txt": "/didactic-broccoli/static/js/2.287cdc05.chunk.js.LICENSE.txt",
+    "static/js/2.ef39535c.chunk.js.LICENSE.txt": "/didactic-broccoli/static/js/2.ef39535c.chunk.js.LICENSE.txt",
     "static/media/galarianmrmime.png": "/didactic-broccoli/static/media/galarianmrmime.aca20136.png",
     "static/media/galarianweezing.png": "/didactic-broccoli/static/media/galarianweezing.51abe0d2.png",
     "static/media/shiny.png": "/didactic-broccoli/static/media/shiny.780ff2c9.png"
   },
   "entrypoints": [
     "static/js/runtime~app.dce7b9a3.js",
-    "static/js/2.287cdc05.chunk.js",
-    "static/js/app.a95f29eb.chunk.js"
+    "static/js/2.ef39535c.chunk.js",
+    "static/js/app.2268fa23.chunk.js"
   ]
 }
